@@ -969,10 +969,10 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 ```
 ##### 11.1.3.4 登录,先访问http://localhost/hello 会自动跳转到登录页面
 数据库中看看账号密码
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191223003346402.png)
-登录
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191223003346402.png)<br/>
+登录<br/>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191223003422633.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjcwNzEy,size_16,color_FFFFFF,t_70)
-登录成功
+<br/>登录成功<br/>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191223003437619.png)
 ## 小技巧
 |快捷键中的名称/快捷键  |作用  |
