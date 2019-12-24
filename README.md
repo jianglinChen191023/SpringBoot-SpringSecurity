@@ -1,5 +1,6 @@
-# springboot
-快速打造企业级声明式安全认证授权解决方案之SpringBoot+SpringSecurity
+# 快速打造企业级声明式安全认证授权解决方案之SpringBoot+SpringSecurity
+黑马公开课地址: http://yun.itheima.com/search
+博客地址:https://blog.csdn.net/qq_43270712/article/details/103654547
 
 > [一、SpringBoot的介绍](#er1)</br>
 > [二、SpringBoot HelloWorld入门](#er2)</br>
