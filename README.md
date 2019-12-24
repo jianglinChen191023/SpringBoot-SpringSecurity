@@ -1,5 +1,5 @@
 # springboot
-springboot +安全入门
+快速打造企业级声明式安全认证授权解决方案之SpringBoot+SpringSecurity
 
 > [一、SpringBoot的介绍](#er1)</br>
 > [二、SpringBoot HelloWorld入门](#er2)</br>
